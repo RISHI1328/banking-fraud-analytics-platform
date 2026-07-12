@@ -1,0 +1,42 @@
+alert_id,transaction_id,customer_id,rule_triggered,risk_level,status,alert_reason,alert_timestamp
+1,7372,448,Velocity,Medium,Open,6 transactions within 2 min,2026-01-21 03:16:58
+2,7373,448,Velocity,Medium,Open,6 transactions within 2 min,2026-01-21 03:17:38
+3,17034,91,Velocity,Medium,Open,6 transactions within 2 min,2026-05-31 01:06:09
+4,17035,91,Velocity,Medium,Open,6 transactions within 2 min,2026-05-31 01:06:49
+5,17909,203,Velocity,Medium,Open,6 transactions within 2 min,2026-06-11 07:07:15
+6,10764,26,Velocity,Medium,Open,6 transactions within 2 min,2026-03-08 04:00:45
+7,10765,26,Velocity,Medium,Open,7 transactions within 2 min,2026-03-08 04:01:00
+8,10766,26,Velocity,Medium,Open,8 transactions within 2 min,2026-03-08 04:01:15
+9,3241,139,Velocity,Medium,Open,6 transactions within 2 min,2025-11-26 20:49:17
+10,3242,139,Velocity,Medium,Open,7 transactions within 2 min,2025-11-26 20:49:32
+11,17771,119,Velocity,Medium,Open,6 transactions within 2 min,2026-06-09 17:41:56
+12,17772,119,Velocity,Medium,Open,7 transactions within 2 min,2026-06-09 17:42:11
+13,2079,160,Velocity,Medium,Open,6 transactions within 2 min,2025-11-10 19:36:09
+14,2080,160,Velocity,Medium,Open,7 transactions within 2 min,2025-11-10 19:36:24
+15,1234,365,Amount Anomaly,High,Open,Amount 85921.65 exceeds 8x account average 7109.44,2025-10-30 09:01:06
+16,7299,65,Amount Anomaly,High,Open,Amount 21527.07 exceeds 8x account average 2503.72,2026-01-20 03:15:00
+17,13269,362,Amount Anomaly,High,Open,Amount 96137.30 exceeds 8x account average 9868.40,2026-04-11 02:06:00
+18,17801,411,Amount Anomaly,High,Open,Amount 31944.12 exceeds 8x account average 3535.37,2026-06-10 02:20:00
+19,1362,148,Amount Anomaly,High,Open,Amount 46965.68 exceeds 8x account average 4500.89,2025-11-01 02:27:00
+20,3330,94,Amount Anomaly,High,Open,Amount 154902.71 exceeds 8x account average 9758.00,2025-11-27 22:34:47
+21,239,288,Amount Anomaly,High,Open,Amount 132812.67 exceeds 8x account average 10393.32,2025-10-17 10:06:44
+22,10692,130,Amount Anomaly,High,Open,Amount 90124.24 exceeds 8x account average 6076.26,2026-03-07 00:30:19
+23,805,317,Amount Anomaly,High,Open,Amount 133792.42 exceeds 8x account average 9591.23,2025-10-25 06:54:37
+24,10617,394,Amount Anomaly,High,Open,Amount 84056.18 exceeds 8x account average 9427.93,2026-03-06 03:14:00
+25,20091,481,Impossible Travel,High,Open,Moved Pune -> Delhi in 30 min,2026-01-02 09:30:00
+26,5047,5,Impossible Travel,High,Open,Moved Ahmedabad -> Bengaluru in 3 min,2025-12-21 08:28:33
+27,10585,193,Impossible Travel,High,Open,Moved Delhi -> Ahmedabad in 3 min,2026-03-05 16:26:01
+28,14431,129,Impossible Travel,High,Open,Moved Ahmedabad -> Mumbai in 3 min,2026-04-26 14:20:05
+29,11928,494,Impossible Travel,High,Open,Moved Jaipur -> Delhi in 3 min,2026-03-23 14:30:01
+30,10471,447,Impossible Travel,High,Open,Moved Lucknow -> Bengaluru in 3 min,2026-03-03 17:26:51
+31,7299,65,Midnight High Value,High,Open,High-value 21527.07 at 03:00 hrs,2026-01-20 03:15:00
+32,13269,362,Midnight High Value,High,Open,High-value 96137.30 at 02:00 hrs,2026-04-11 02:06:00
+33,17801,411,Midnight High Value,High,Open,High-value 31944.12 at 02:00 hrs,2026-06-10 02:20:00
+34,1362,148,Midnight High Value,High,Open,High-value 46965.68 at 02:00 hrs,2025-11-01 02:27:00
+35,10692,130,Midnight High Value,High,Open,High-value 90124.24 at 00:00 hrs,2026-03-07 00:30:19
+36,10617,394,Midnight High Value,High,Open,High-value 84056.18 at 03:00 hrs,2026-03-06 03:14:00
+37,976,486,Card Testing,Medium,Open,4 failed attempts before this success,2025-10-27 03:49:17
+38,7373,448,Card Testing,Medium,Open,6 failed attempts before this success,2026-01-21 03:17:38
+39,13279,368,Card Testing,Medium,Open,4 failed attempts before this success,2026-04-11 03:27:55
+40,17035,91,Card Testing,Medium,Open,6 failed attempts before this success,2026-05-31 01:06:49
+41,16086,113,Card Testing,Medium,Open,5 failed attempts before this success,2026-05-18 20:04:50

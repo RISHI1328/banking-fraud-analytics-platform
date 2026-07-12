@@ -1,0 +1,6 @@
+rule_triggered,alerts
+Velocity,14
+Amount Anomaly,10
+Impossible Travel,6
+Midnight High Value,6
+Card Testing,5

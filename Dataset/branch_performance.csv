@@ -1,0 +1,9 @@
+branch_id,branch_name,city,state,transactions,total_amount,fee_revenue,fraud_pct,failed_pct,active_customers
+5,Federal Bank - Kolkata,Kolkata,West Bengal,2821,12659699.86,58465.42,0.14,5.53,84
+3,Federal Bank - Bengaluru,Bengaluru,Karnataka,2595,12118467.48,55404.81,0.19,5.78,79
+7,Federal Bank - Pune,Pune,Maharashtra,2581,11603928.02,53428.24,0.19,6.66,83
+1,Federal Bank - Mumbai,Mumbai,Maharashtra,2501,10600834.36,48583.12,0.16,6.24,75
+6,Federal Bank - Hyderabad,Hyderabad,Telangana,2515,10556038.41,48626.17,0.20,6.08,80
+4,Federal Bank - Chennai,Chennai,Tamil Nadu,2453,10463071.36,48615.29,0.12,5.54,75
+2,Federal Bank - Delhi,Delhi,Delhi,2422,10390788.90,47571.41,0.08,5.49,74
+8,Federal Bank - Ahmedabad,Ahmedabad,Gujarat,2203,9870955.51,45233.21,0.23,5.90,69

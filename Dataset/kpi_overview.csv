@@ -1,0 +1,2 @@
+total_customers,active_customers_30d,total_accounts,total_transactions,avg_transaction_value,total_transaction_amount,failed_transactions,failed_pct,flagged_transactions,fraud_pct,avg_account_balance,fee_revenue,interest_margin_annual,total_revenue_est
+500,487,639,20091,4393.20,88263783.90,1186,5.90,33,0.16,209171.05,405927.68,3623684.84,4029612.51
